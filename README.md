@@ -2,7 +2,7 @@
 Will-Hor/Will-Hor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Howdy!, I am <a href="https://github.com/Will-Hor">Hemanth</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1> Howdy!, I am <a href="https://github.com/Will-Hor">William</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -15,15 +15,15 @@ You can click the Preview link to take a look at your changes.
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Postgrad Student🎓 majoring in SE [@FuZhou University](https://www.fzu.edu.cn/)**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
+- 🔭 I’m currently working on Embedded Linux
+- 🌱 I’m currently learning Time Series Forecasting ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
