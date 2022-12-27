@@ -24,7 +24,7 @@ I'm an **Postgrad Student🎓 majoring in SE [@FuZhou University](https://www.fz
 
 - 🔭 I’m currently working on Embedded Linux
 - 🌱 I’m currently learning Time Series Forecasting ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="490" height="270" src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
